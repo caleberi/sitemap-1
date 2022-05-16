@@ -1,0 +1,6 @@
+github.com/caleberi/linkparser v0.0.0-20220515073139-6efd1a856f37 h1:X1w+xwHEnyHrWSeHnAQYi5XvkaFG+JDy5bT+eL80HZ0=
+github.com/caleberi/linkparser v0.0.0-20220515073139-6efd1a856f37/go.mod h1:yKkTGgTradKRQ5FTM8Ew2CReYxC1C+RE2LkormuhN4g=
+github.com/mitchellh/go-homedir v1.1.0 h1:lukF9ziXFxDFPkA1vsr5zpc1XuPDn/wFntq5mG+4E0Y=
+github.com/mitchellh/go-homedir v1.1.0/go.mod h1:SfyaCUpYCn1Vlf4IUYiD9fPX4A5wJrkLzIz1N1q0pr0=
+golang.org/x/net v0.0.0-20220225172249-27dd8689420f h1:oA4XRj0qtSt8Yo1Zms0CUlsT3KG69V2UGQWPBxujDmc=
+golang.org/x/net v0.0.0-20220225172249-27dd8689420f/go.mod h1:CfG3xpIq0wQ8r1q4Su4UZFWDARRcnwPjda9FqA0JpMk=
