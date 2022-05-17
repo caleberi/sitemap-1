@@ -19,6 +19,8 @@ import (
 	home "github.com/mitchellh/go-homedir"
 )
 
+const xmls string = "http://www.sitemaps.org/schemas/0.9"
+
 var filePath string
 var maxDepth int
 
@@ -184,7 +186,9 @@ func main() {
 
 		check(err)
 
-		var toXml urlset
+		toXml := urlset{
+			Xmlns: xmls,
+		}
 		for _, page := range pages {
 			toXml.Urls = append(toXml.Urls, loc{page})
 		}
